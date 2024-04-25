@@ -4,7 +4,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 ## Task 1: Commit an edit from the browser
 
-All I want to do here is link ([this cheatsheet for markdown]https://www.markdownguide.org/cheat-sheet/)
+All I want to do here is link [this cheatsheet for markdown]https://www.markdownguide.org/cheat-sheet/
 
 
 ## Task 2: Practice Markdown 
