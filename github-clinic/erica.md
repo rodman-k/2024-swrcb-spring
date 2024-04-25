@@ -28,6 +28,19 @@ We can make lists – *note that lists need an empty line before list items!*
 2. tamales
 3. cakes
 
+### Make another list.
+
+Here is a list - 
+
+1. this
+2. is
+3. a
+4. list
+5. of
+6. words
+
+## Back to the instructions.
+
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
@@ -41,6 +54,10 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+
+## Here is another edit in Markdown
+
+> [Check out the Water Boards CEC Program (https://www.waterboards.ca.gov/water_issues/programs/cec/index.html)]  
 
 ## NOTES
 
