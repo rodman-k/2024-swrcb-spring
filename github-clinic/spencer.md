@@ -21,6 +21,10 @@ This file is written in Markdown, which formats text on the web. To see the Mark
 
 We can make words **bold** or *italic*.
 
+'what happens when I write in code?'
+**'can I bold and code in one line?'**
+***how about bold and italicise?***
+
 ### We can make headers.
 
 We can make lists – *note that lists need an empty line before list items!*
