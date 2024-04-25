@@ -6,7 +6,20 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo. 
+
+**let's try it being bold** 
+
+*now it's italicized*
+
+> this is very important
+
+# VERY important header
+## slightly less important header
+### what even is a header
+
+![360_F_159585985_mooBG1TwsRTHazcUAjNzJqam3KqhcDCE](https://github.com/Openscapes/2024-swrcb-spring/assets/162214535/a0bca572-cfa6-450c-9353-364224cadc2a)
+
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
