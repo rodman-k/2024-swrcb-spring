@@ -31,9 +31,14 @@ We can make lists – *note that lists need an empty line before list items!*
 * testing bullet point lists
 * unsure if dashes and asterisks
 * have different formatting in github
+    * testing multi-level lists
+        * github does not make this easy in editor
+            * hopefully it looks good in reading view,
+            * but i'm picky about that
 
 - i prefer to use dashes
 - but i think asterisks usually look better
+  - UPDATE: they don't look different lol...
 
 > here's a [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) too
 > i love using tables but i hate how they look in edit mode, sad github doesn't have live preview
@@ -47,7 +52,7 @@ We can make an indented quote block with the `>` symbol, as in the example above
 
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
-![](../horst-champions-trailhead.png)
+![Testing image adding: had to navigate to image file and "Copy Path"](../23-04-01-April-CA-Serving-CA-Items-Updated-Carlsbad.png)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
