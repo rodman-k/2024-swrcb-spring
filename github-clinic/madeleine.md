@@ -28,6 +28,17 @@ We can make lists – *note that lists need an empty line before list items!*
 2. tamales
 3. cakes
 
+* testing bullet point lists
+* unsure if dashes and asterisks
+* have different formatting in github
+
+- i prefer to use dashes
+- but i think asterisks usually look better
+
+> here's a [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) too
+> i love using tables but i hate how they look in edit mode, sad github doesn't have live preview
+> i prefer to use [obsidian](https://obsidian.md/) for markdown notetaking
+
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
