@@ -1,16 +1,11 @@
-# GitHub practice from the browser
+# Val's special github markdown page
 
 Working on GitHub.com, we contribute changes through **commits**. You'll practice creating several commits by making small edits to a file, writing commit messages, and committing changes to see them posted nicely online to communicate our work. You'll practice with the file with your name on it; everyone has their own file to practice with. 
 
 ## Task 1: Commit an edit from the browser
 
-Let's edit this file by clicking the pencil icon at the top-right of the file. 
+All I want to do here is link ([this cheatsheet for markdown]https://www.markdownguide.org/cheat-sheet/)
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
-
-Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
-
-Note: In the browser, GitHub will suggest "Update file.md" as the commit message. But you can be more descriptive - practice writing commit messages that help you remember detail about what you changed.
 
 ## Task 2: Practice Markdown 
 
