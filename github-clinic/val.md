@@ -15,8 +15,10 @@ All I want to do here is link [this cheatsheet for markdown]https://www.markdown
 *results*
 [this cheatsheet for markdown](https://www.markdownguide.org/cheat-sheet/)
 
-
 We can make words **bold** or *italic*.
+
+Here it is in code
+'[title](https://www.example.com)'
 
 ### We can make headers.
 
