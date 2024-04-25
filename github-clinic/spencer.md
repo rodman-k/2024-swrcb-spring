@@ -39,6 +39,10 @@ We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 
+![pretty landscape](https://cdn.shopify.com/s/files/1/0163/6622/files/Landscape_Photo_Tips.jpg?v=1660006499)
+
+> *example of indented code block*
+
 We can make an indented quote block with the `>` symbol, as in the example above.
 
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
