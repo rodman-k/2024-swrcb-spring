@@ -46,6 +46,8 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
 
+Famous colors:
+
 1. red
 2. blue
 3. green
