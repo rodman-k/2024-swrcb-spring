@@ -37,6 +37,7 @@ We can make an indented quote block with the `>` symbol, as in the example above
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
+![soul crushing meeting](https://github.com/Openscapes/2024-swrcb-spring/assets/37669928/3824f5ac-01f7-4c70-9124-911996b5e2a3)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
