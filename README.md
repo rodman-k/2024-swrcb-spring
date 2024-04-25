@@ -40,7 +40,7 @@ These are the teams participating:
 
 -   **Instructors**:Anna Holder (OIMA), Devan Burke (OIMA)
 
--   **Mentors:** Lisa Hunt (Region 2), Nick Martorano (OIMA), Michael Ben Ortiz (Office of Public Participation), Dan Wang (Division of Drinking Water)
+-   **Mentors:** Lisa Hunt (Region 2), Nick Martorano (he/him) (OIMA), Michael Ben Ortiz (Office of Public Participation), Dan Wang (Division of Drinking Water)
 
 ### Guest Teachers
 
