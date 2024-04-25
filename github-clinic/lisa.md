@@ -4,7 +4,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 ## Task 1: Commit an edit from the browser
 
-Let's edit this file by clicking the pencil icon at the top-right of the file. 
+Let's **edit** this file by clicking the pencil icon at the top-right of the file. 
 
 Next, make an edit to the text in this file. One idea is to fix this typo. 
 
