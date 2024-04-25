@@ -12,6 +12,12 @@ Next, make an edit to the text in this file. One idea is to fix this typo.
 
 *now it's italicized*
 
+***three asterisks***
+
+****four asterisks****
+
+*****five asterisks*****
+
 > this is very important
 
 # VERY important header
