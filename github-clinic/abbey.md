@@ -20,13 +20,27 @@ This file is written in Markdown, which formats text on the web. To see the Mark
 
 We can make words **bold** or *italic*.
 
+**water**
+
+*WATER*
+
+***waterrrrr***
+
+
 ### We can make headers.
+
+# header 1
+## header 2
+### header 3
+#### header 4
 
 We can make lists – *note that lists need an empty line before list items!*
 
 1. bananas
 2. tamales
 3. cakes
+4. rice crispy treats
+5. pretzels
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -39,6 +53,8 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 ![](../horst-champions-trailhead.png)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
+
+![](https://images.unsplash.com/photo-1445294211564-3ca59d999abd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
