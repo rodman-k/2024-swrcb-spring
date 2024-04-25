@@ -45,3 +45,10 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+1. red
+2. blue
+3. green
+
+>[More colors](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F)
+
