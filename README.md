@@ -47,7 +47,7 @@ These are the teams participating:
 -   Call 1: [**Corey Clatterbuck**](https://www.coreyclatterbuck.com/) (California Coastal Commission) - [Better Science for Future Us](https://drive.google.com/file/d/1qeVzG8qC3NaKi8I4a6sfQEV9o621D-Gf/view?usp=sharing)
 
 ## More Background on Openscapes and the Champions program:
-![soul crushing meeting](https://github.com/Openscapes/2024-swrcb-spring/assets/37669928/e0ca02b2-b5fd-49af-8408-69363eb72217)
+
 
 -   [**Our path to better science in less time using open data science tools**](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al 2017, *Nature Ecology & Evolution*) - this paper greatly influences the whole Champions program and we'll ask that everyone participating reads it before our first Cohort Call on September 9.
 -   [**Openscapes: Better Science for Future Us**](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit#slide=id.ge2b7c2f974_0_2017) - 2021 plenary talk at the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) inaugural conference
