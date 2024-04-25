@@ -9,9 +9,12 @@ All I want to do here is link [this cheatsheet for markdown]https://www.markdown
 
 ## Task 2: Practice Markdown 
 
-Now let's practice Markdown and commit another edit to this file. 
+**struggling with this**
+*instructions* [title](https://www.example.com)
 
-This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
+*results*
+[this cheatsheet for markdown](https://www.markdownguide.org/cheat-sheet/)
+
 
 We can make words **bold** or *italic*.
 
